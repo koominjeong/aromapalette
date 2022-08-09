@@ -111,8 +111,11 @@ body{
 
 @keyframes main{
 0%{background:url(images/mb1.jpg) no-repeat center top;}
+20%{background:url(images/mb2.jpg) no-repeat center top;}
 33.3%{background:url(images/mb2.jpg) no-repeat center top;}
+53.5%{background:url(images/mb3.jpg) no-repeat center top;}
 66.6%{background:url(images/mb3.jpg) no-repeat center top;}
+86.7%{background:url(images/mb1.jpg) no-repeat center top;}
 100%{background:url(images/mb1.jpg) no-repeat center top;}
 }
 
