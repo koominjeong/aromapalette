@@ -511,9 +511,6 @@ body{
     width: 1320px;
     padding: 0 0 130px;
 }
-#video video{
-    width: 100%;
-}
 /*class*/
 #class{
     background-image: url(images/class_bg.jpg);
