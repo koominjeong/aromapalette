@@ -495,7 +495,7 @@ body{
     background-size: cover;
     height: 300px;
     margin-top: 250px;
-    margin-bottom: 200px;
+    margin-bottom: 130px;
 }
 #attachment img{
     padding-top: 80px;
@@ -509,8 +509,10 @@ body{
 #video{
     margin: 0 auto;
     width: 1320px;
-    height: 600px;
-    padding: 100px 0;
+    padding: 0 0 130px;
+}
+#video video{
+    width: 100%;
 }
 /*class*/
 #class{
