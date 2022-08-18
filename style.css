@@ -42,7 +42,7 @@ body{
     width: 1350px;
     display: flex;
     padding-left: 50px;
-    height: 110px;
+    height: 120px;
 }
 .gnb{
     display: flex;
@@ -51,10 +51,10 @@ body{
     padding-left: 50px;
 }
 .gnb li{
-    padding: 68px 25px 0;
+    padding: 73px 25px 0;
 }
 #logo{
-    padding-top: 18px;
+    padding-top: 22px;
 }
 .login{
     display: flex;
@@ -62,7 +62,7 @@ body{
     color: #fff;
 }
 .login li{
-    padding-top: 10px;
+    padding-top: 12px;
     padding-right: 26px;
     font-size: 15px;
     
@@ -75,7 +75,7 @@ body{
     width:257px;
     outline-style:none;
     border-radius:21.5px;
-    margin-top: 18px;
+    margin-top: 21px;
 }
 .login_box{
     margin-left: auto;
@@ -137,7 +137,7 @@ body{
 
 .sub_title{
     line-height: 30px;
-    padding-top: 50px;
+    padding-top: 35px;
     text-align: center;
 }
 .sub_title2{
@@ -155,7 +155,7 @@ body{
 
 #about ul li p{
     font-weight: bold;
-    font-size: 24px;
+    font-size: 22px;
     padding-top: 15px;
     padding-bottom: 70px;
 }
@@ -1509,7 +1509,7 @@ body{
     justify-content: space-between;
 }
 .oneday_list span, .expert_list span{
-    font-size: 22px;
+    font-size: 24px;
     font-weight: bold;
 }
 .oneday_list h1{
